@@ -1,0 +1,19 @@
+body{
+	font-family: Arial;
+	width: 550px;
+	margin: auto;
+}
+
+.photo img{
+	width: 35%;
+	text-align: center;
+}
+
+.cont{
+	margin-left: 40px;
+}
+
+.link{
+	font-style: italic;
+	margin-left: 40px;
+}
