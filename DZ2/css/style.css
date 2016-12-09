@@ -4,15 +4,30 @@ body{
 	margin: auto;
 }
 
-.photo{
+.header{
 	text-align: center;
 }
 
-.cont{
+.header p{
+	text-align: left;
+}
+
+.liblock,
+.comtacts,
+.feedback{
+	border-top: 1px solid silver;
+}
+
+.content{
 	margin-left: 40px;
 }
 
-.link{
+.comtacts a{
 	font-style: italic;
-	margin-left: 40px;
 }
+
+.theme{
+	font-size: 18px;
+	font-weight: bold; 
+}
+
