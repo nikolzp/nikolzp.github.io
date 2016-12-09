@@ -24,6 +24,8 @@ body{
 
 .comtacts a{
 	font-style: italic;
+	display: block;
+	padding-bottom: 10px;
 }
 
 .theme{
